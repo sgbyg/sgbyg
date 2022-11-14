@@ -1,3 +1,6 @@
 # Nothing.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center">
+  <a href="https://bimasha.com/">
+  <img src="https://github.com/sgbyg/sgbyg.github.io/blob/main/snake.svg"/></a>
+</div>
