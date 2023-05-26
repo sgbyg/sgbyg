@@ -1,1 +1,1 @@
-<a href="https://www.zhihu.com/people/sgbyg" target="_blank">zhihu</a>
+[zhihu](https://www.zhihu.com/people/sgbyg)
