@@ -1,1 +1,1 @@
-Nothing.
+Typical INTP
