@@ -1,7 +1,5 @@
-# Hello World
+# 你好 世界
 
 **hello world**
 
-hello world
-
-你好 世界
+Likes writing interesting code
